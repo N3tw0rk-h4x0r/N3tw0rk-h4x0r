@@ -13,7 +13,7 @@ I explore the digital world through hacking, security, and cyber research.
 _None for now, but always experimenting._  
 
 ## 📡 Connect With Me  
-- 🌎 https://n3tw0rk-h4x0r.github.io/  
-- 📬 Secure channels only.  
+- 🌎 https://n3tw0rk-h4x0r.github.io  
+- 📰 https://n3tw0rkh4x0r.wordpress.com  
 
 **"Hack the system, understand the code."** 🛡️  
